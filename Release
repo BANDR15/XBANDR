@@ -1,0 +1,8 @@
+Origin: X.BANDR 
+Label: adelsami
+Suite: stable
+Version: 1.0
+Codename: adelsami
+Architectures: iphoneos-arm
+Components: main
+Description: S_DFER Tweaks
