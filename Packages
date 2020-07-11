@@ -1,0 +1,17 @@
+
+Package: com.firepo.hmodeis.apphack
+Name: appshack
+Architecture: iphoneos-arm
+Description:new tweak
+Maintainer:bandr15
+Author: bandr15
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common
+Version: 3.0-1
+Installed-Size: 3508
+Filename: debs/com.firepo.hmodeis.apphack_3.0-1_iphoneos-arm-2.deb
+Size: 	1613798
+MD5sum:	2243AC96CA7D03611BC03D573EE84FAF
+SHA1:	AFA408C5426E948636AC4CA0CC7D7066466800D2
+SHA256:	F6E02704C6E7A855B259F9609980A04B1FED85055FFE247D3CF43F389C89CAE3
+Section: Tweak
