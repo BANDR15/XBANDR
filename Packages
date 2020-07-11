@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: BANDR15
 Depends:  firmware (>= 11.0), mobilesubstrate 	
 Conflicts: com.unlimapps.uaupdatetools	
-Filename: deb/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb	
+Filename: deb/com.firepo.hmodeis.apphack_3.0-1_iphoneos-arm-1	
 Size: 1459952 Bytes	
 MD5sum: 72a6cfe8a2fc0d659a733290dd3062b0	
 SHA1: f6564873f8b2b623d4c4180baa4b98b60ec2507c	
